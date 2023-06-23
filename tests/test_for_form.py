@@ -1,7 +1,5 @@
 from selene import browser, have, be
 import os
-import time
-
 
 # Filling the form
 def test_sending_registration_form(browser_management):
